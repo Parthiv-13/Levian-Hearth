@@ -1,0 +1,6 @@
+{
+  "name": "Levain & Hearth Bakery",
+  "description": "Artisanal neighborhood bakery featuring wild-fermented sourdoughs, handcrafted viennoiserie, a live daily oven board, and online pre-ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
